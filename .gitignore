@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+config.yaml
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
